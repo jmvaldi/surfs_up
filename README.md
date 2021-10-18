@@ -7,6 +7,7 @@ The purpose of this project is to analyze temperature data from Oahu during the 
 ## Results
 #### June Temperature Analysis
 For the month of June from the year 2017 there is a an average temperature of 74.94° Farenheit, a minimum temperature of 64.00° Farenheit, and a maximum temperature of 85° Farenheit. This statistical data was compiled from 1700 observations.
+
 <img width="168" alt="Screen Shot 2021-10-17 at 9 42 02 PM" src="https://user-images.githubusercontent.com/88690258/137656510-6d982278-7ece-48b1-aac3-5536e8d6635c.png">
 
 #### December Temperature Analysis
